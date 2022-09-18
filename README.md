@@ -1,7 +1,10 @@
-Seng302 team 600 project
+Wasteless Website
 =========
 
-project using `gradle`, `npm`, `Spring Boot`, `Vue.js` and `Gitlab CI`.
+Project using `gradle`, `npm`, `Spring Boot`, `Vue.js` and `Gitlab CI`.
+
+## Purpose
+This project was delivered by a team of eight people over the course of a year, as part of our third year Bachelor of Software Engineering (Hons) assessments.
 
 ## Synopsis
 “Every year, New Zealanders send around 2.5 million tonnes of waste to landfill” - over a tonne of rubbish per 
